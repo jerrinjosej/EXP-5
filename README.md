@@ -43,11 +43,12 @@ OBSERVATIONS:
 Tabulation:
 
 LINE REGULATION
-<img width="638" height="306" alt="Screenshot 2025-10-11 194154" src="https://github.com/user-attachments/assets/4a8ecd8b-3411-4a55-8cf4-d536fd252165" />
+
+<img width="756" height="426" alt="Screenshot 2025-10-19 123009" src="https://github.com/user-attachments/assets/63795d87-3870-4971-b926-96b80962a3ef" />
 
 
 LOAD REGULATION
-<img width="739" height="332" alt="Screenshot 2025-10-11 194200" src="https://github.com/user-attachments/assets/cad15a61-bc96-4f81-9aa3-c4d98f39f012" />
+<img width="750" height="482" alt="Screenshot 2025-10-19 123154" src="https://github.com/user-attachments/assets/ad3d8b7c-2c55-42d4-8dc8-4f20213437f3" />
 
 
 REGULATION CHARACTERISTICS:
@@ -55,18 +56,17 @@ REGULATION CHARACTERISTICS:
 MODEL GRAPH
 
 LINE REGULATION
-<img width="818" height="332" alt="Screenshot 2025-10-11 194128" src="https://github.com/user-attachments/assets/4df6c00b-7230-404c-837a-dc2807e20c51" />
 
+<img width="760" height="300" alt="Screenshot 2025-10-19 123245" src="https://github.com/user-attachments/assets/b8b3c589-cf08-43da-b86c-fdde3d3d7070" />
 
 LOAD REGULATION
-<img width="710" height="414" alt="Screenshot 2025-10-11 194136" src="https://github.com/user-attachments/assets/0797daf2-d431-4f19-95ac-2bf63327109a" />
-
+<img width="760" height="300" alt="Screenshot 2025-10-19 123245" src="https://github.com/user-attachments/assets/099b0bc5-8a68-4271-b352-7df9a6f4f6a8" />
 
 
 V-I & REGULATION CHARACTERISTICS:
-<img width="796" height="390" alt="Screenshot 2025-10-11 194143" src="https://github.com/user-attachments/assets/00765377-4ff5-41b4-be40-48c502cd6c9a" />
+<img width="756" height="437" alt="Screenshot 2025-10-19 123356" src="https://github.com/user-attachments/assets/39fd199c-8ed9-410a-8062-e9266fd20463" />
 
-<img width="848" height="429" alt="Screenshot 2025-10-11 194148" src="https://github.com/user-attachments/assets/529f806e-7440-4087-9455-007ed2af3b81" />
+<img width="748" height="512" alt="Screenshot 2025-10-19 123527" src="https://github.com/user-attachments/assets/81d787b0-5d29-4f30-b971-304732c313e6" />
 
 
 
